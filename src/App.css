@@ -1,0 +1,32 @@
+body {
+  margin: 0;
+  background-color: #1e1e1e;
+}
+
+#title {
+  color: magenta;
+}
+
+.container {
+  margin-left: 38%;
+}
+
+textarea {
+  width: 290px;
+  height: 200px;
+}
+
+#preview {
+  color: blue;
+  width: 90%;
+  height: 80vh;
+  margin-top: 10px;
+  position: absolute;
+  left: 4%;
+  font-size: 18px;
+  background-color: #2f2f2f;
+  color: white;
+  padding: 10px;
+  overflow: auto;
+  border-radius: 20px;
+}
